@@ -1,1 +1,1 @@
-# Búsqueda general
+#busqueda general codificada
